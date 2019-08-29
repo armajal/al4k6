@@ -1,0 +1,1 @@
+I basically got through it all except step 9 where I had to create schemas. I was definately a little stressed about the organization and everything that was going on but the Github document was helpful. I didn't realize if you ran all three schemas you didn't have to run the command for number 9. 
