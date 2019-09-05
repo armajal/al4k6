@@ -2,9 +2,13 @@
 Group Names:
 
 Armaja LaRue-Hil al4k6
+
 Matthew Connealy mccdqw
+
 Naga Ramya Bhamidipati - nbny6
+
 Byron Doyal- BDWT5
+
 Sweta Praharaj (sppgcc)
 
 Goal: Data metric GitHub, with open source capabilities 
