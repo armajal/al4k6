@@ -1,13 +1,37 @@
-Step 0
-Make sure you understand the problem. You can ask questions in the GitHub channel #requirements in the SWES17 Team.
-Step 1
-Identify the different types of Users of the software system
-Step 2
-For each identified User, identify the Activities they will perform with the software. (These are User Requirements.)
-Step 3
-For each identified Activity, identify…
-relevant data within the system. Data entities and attributes may be simply listed or you may construct a data model if it helps.
-constraints (non-functional) on the activity or the resultant state of the system
-Step 4
-Identify System constraints and requirements
-i.e. hardware and necessary components
+User Types:
+Students
+TAs
+Professors
+
+
+Student User Requirements:
+  Allow students to submit certain file types
+  Be Fast to Submit and Accessable via Phone
+  Allow for Large Project Files 
+  Organize Files
+  Allow for Debugging during Submission (Compiler of sorts that checks for any errors
+  Data Entries:
+    
+  
+TA User Requirements:
+   Allow for Compiling/Building without Downloading Project
+   Shows % of Code that may be plagarized
+   Finds Possible Technologies that were used for Grading of TA
+   Allows for Specific Grading based on Code
+   Data Entries:
+   
+Professor User Requirements:
+   Bans or doesn't allow for submissions tht don't fit requirements
+   Software & Programming Check
+   Allows for Connections to Canvas and Other Sites to Organize Course Submission and People
+   Grading
+   Data Entries: 
+  
+
+System Constraints
+   Database for Querying Assignments
+   Server for Storing Large amounts of Files 
+   Allow Select Super users with access and privledges
+   User Interface
+   
+
